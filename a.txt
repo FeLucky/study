@@ -4,3 +4,4 @@ master
 develop
 test conflict second
 test conflict
+test commit conflict
